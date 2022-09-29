@@ -1,0 +1,17 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-style: Bold;
+    font-size: large;
+    background-image: url(CAS\ Background.jpg);
+    background-repeat: repeat;
+    background-size: 30em;
+} 
+
+h1{
+    text-align: center;
+    color: black;
+    font-style: Bold;
+    
+   
+}

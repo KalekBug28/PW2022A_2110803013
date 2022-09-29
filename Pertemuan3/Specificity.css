@@ -1,0 +1,13 @@
+
+#p1 {
+    color: red;}
+p {
+    color: green;}
+
+ul#MakanSiang li {
+    color: green;
+}
+
+ul#MakanSiang li.Favorit {
+    color: red;
+}
